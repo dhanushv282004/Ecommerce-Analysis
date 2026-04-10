@@ -46,4 +46,5 @@ Analyze furniture sales data to understand pricing trends, discounts, and factor
 Data-driven pricing and discount strategies can improve sales performance in e-commerce.
 
 ## 🔗 Project Link
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhanushv282004/Ecommerce-Analysis/blob/main/Ecommerce_Analysis.ipynb)
+[![View Notebook](https://img.shields.io/badge/View-Notebook-blue)](https://nbviewer.org/github/dhanushv282004/Ecommerce-Analysis/blob/main/Ecommerce_Analysis.ipynb)
+
