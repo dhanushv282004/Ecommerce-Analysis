@@ -46,4 +46,4 @@ Analyze furniture sales data to understand pricing trends, discounts, and factor
 Data-driven pricing and discount strategies can improve sales performance in e-commerce.
 
 ## 🔗 Project Link
-https://github.com/dhanushv282004/Ecommerce-Analysis/blob/main/ecommerce_analysis.ipynb
+(https://github.com/dhanushv282004/Ecommerce-Analysis)
