@@ -9,15 +9,22 @@ Analyze furniture sales data to understand pricing trends, discounts, and factor
 - Matplotlib, Seaborn
 - Scikit-learn (Machine Learning)
 
+## 🔹 Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning
+- Data Visualization
+
 ## 🔹 Project Workflow
-1. Data Collection
-2. Data Cleaning (handling missing values, formatting)
-3. Exploratory Data Analysis (EDA)
-4. Feature Engineering (discount percentage)
-5. Model Building:
-   - Linear Regression
-   - Random Forest Regressor
-6. Model Evaluation (MSE, R² Score)
+- Data Collection
+- Data Cleaning (handling missing values, formatting)
+- Exploratory Data Analysis (EDA)
+- Feature Engineering (discount percentage)
+- Model Building:
+  - Linear Regression
+  - Random Forest Regressor
+- Model Evaluation (MSE, R² Score)
 
 ## 🔹 Key Insights
 - Discounts significantly influence sales
@@ -25,7 +32,7 @@ Analyze furniture sales data to understand pricing trends, discounts, and factor
 - Random Forest performed better than Linear Regression
 
 ## 🔹 Files
-- `ecommerce_analysis.ipynb`
+- ecommerce_analysis.ipynb
 - Dataset (CSV)
 
 ## 🔹 Sample Visualizations
@@ -35,4 +42,4 @@ Analyze furniture sales data to understand pricing trends, discounts, and factor
 Data-driven pricing and discount strategies can improve sales performance in e-commerce.
 
 ## 🔗 Project Link
-(https://github.com/dhanushv282004/Ecommerce-Analysis/blob/main/E_commerce_Furniture.ipynb)
+https://github.com/dhanushv282004/Ecommerce-Analysis/blob/main/ecommerce_analysis.ipynb
