@@ -38,6 +38,7 @@ Analyze furniture sales data to understand pricing trends, discounts, and factor
 ## 🔹 Sample Visualizations
 ### 📈 Price vs Items Sold
 <img width="772" height="585" alt="graph1" src="https://github.com/user-attachments/assets/903fc655-c705-4a41-9d94-52e8d2c40edf" />
+
 ### 📊 Distribution of Items Sold
 <img width="772" height="578" alt="graph2" src="https://github.com/user-attachments/assets/be787580-db6d-4a12-a631-f32cdfa253bc" />
 
